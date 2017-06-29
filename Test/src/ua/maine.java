@@ -1,9 +1,11 @@
 package ua;
 
 public class maine {
+
 	
-	
-	
+
+
+}	
 	
 	
 	
@@ -16,4 +18,4 @@ public class maine {
 	
 	
 
-}
+
